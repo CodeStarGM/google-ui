@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/366813ab-e2f1-43fe-ad2a-dab128048be0/deploy-status)](https://app.netlify.com/sites/hardcore-almeida-a8bef1/deploys)
+
 # Google
 
 A simple google-UI clone (only frontend) but who knows maybe in the future I'll add searching functionality
