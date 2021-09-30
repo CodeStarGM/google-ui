@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 8vh;
+  padding: 0.4rem;
+  justify-content: end;
+}
+
+.navbar__right {
+  display: flex;
+
+  align-items: center;
+}
+
+.navbar__right svg {
+  padding: 0.4rem;
+  width: 25px;
+  height: 25px;
+  color: #5f6368;
+}
+.link {
+  color: #000;
+  text-decoration: none;
+  padding: 0.4rem;
+
+  font-size: 14px;
+}
+.profile__img {
+  width: 35px;
+  padding: 0.4rem;
+  height: 35px;
+}
